@@ -1,4 +1,4 @@
-# Toko POS — Microservice E-Commerce & Kasir
+# Toko Microservice — Microservice E-Commerce & Kasir
 
 Aplikasi kasir/toko sederhana berbasis **microservice**, dibangun untuk mensimulasikan proses transaksi penjualan dari input produk hingga pembayaran dan cetak struk.
 
